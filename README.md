@@ -1,6 +1,6 @@
-# Hi 👋, I'm Nilesh Dhanani
+# Hi 👋, I'm Nilesh Kumar
 
-🎓 Computer Science Student at Sukkur IBA University
+🎓 Computer Science alumni at Sukkur IBA University
 
 💻 Full Stack Developer
 🤖 AI & Machine Learning Enthusiast
@@ -12,7 +12,7 @@
 
 - 🌱 Currently learning AI Engineering
 - 🔭 Working on Shopify Apps
-- 💡 Interested in Machine Learning and RAG Systems
+- 💡 Interested in Machine Learning, n8n and RAG Systems
 - 📫 Reach me on LinkedIn
 
 ---
@@ -28,15 +28,28 @@
 - React.js
 - HTML
 - CSS
+- Next.js
+- React native
+- Kotlin
+- java
+
 
 ### Backend
 - Node.js
 - Express.js
 - Django
+- next.js
+- java
+- sockets programming
+- AI automation
 
 ### Database
 - MySQL
 - SQLite
+- Mangodb
+- Postgree
+- firebase
+- supabase
 
 ### AI & ML
 - Scikit-Learn
@@ -64,6 +77,8 @@ React + Django + OpenAI.
 
 ## Connect With Me
 
-LinkedIn: Add Your LinkedIn Link
+linkedin:https://www.linkedin.com/in/nilesh-kumar-258415210/ 
+Github:https://github.com/prof-Nilesh-kumar
+protfolio: https://nileshkumar-portolio-tau.vercel.app/
 
-Email: Add Your Email
+Email: nkdhanani2@gmail.com
