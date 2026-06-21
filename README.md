@@ -48,17 +48,13 @@
 # ⚡ Tech Stack
 
 ## Languages
-
 ![Kotlin](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Next.js](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk)
 ![Mango Db](https://img.shields.io/badge/SQL-blue?style=for-the-badge)
 ![Django](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk)
-![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge)
 ![React Native](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk)
-![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge)
+
 
 ## Frontend
 
